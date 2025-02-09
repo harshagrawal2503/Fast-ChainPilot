@@ -5,7 +5,7 @@
  Fast ChainPilot is a cutting-edge decentralized assistant designed to streamline on-chain interactions using natural language. By integrating AgentKit, it empowers users to effortlessly manage crypto wallets, execute transactions, and interact with decentralized applications (dApps). With features like wallet connectivity, network switching, and real-time transaction insights, Fast ChainPilot simplifies blockchain operations, making them accessible to both novice and advanced users.
 </p>
 
-https://github.com/coinbase/agentkit/blob/master/agent_k.webp
+![Data flow](https://github.com/coinbase/agentkit/blob/master/agent_k.webp)
 
 
 ## Features
